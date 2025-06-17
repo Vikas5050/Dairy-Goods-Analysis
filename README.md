@@ -1,5 +1,5 @@
 # 🐄 Dairy Farm Power BI Analytics Dashboard
-
+![Image](https://github.com/user-attachments/assets/fdb8aa12-b3e2-451b-9414-2d3ae8b997a6)
 This project presents a comprehensive **Power BI dashboard** designed to analyze various aspects of a dairy farm's operations, including performance by location and farm size, product sales trends, shelf life and storage impacts, and revenue generation across customer regions and brands.
 
 ---
